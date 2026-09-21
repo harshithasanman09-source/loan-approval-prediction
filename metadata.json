@@ -1,0 +1,6 @@
+{
+  "name": "Loan Approval Prediction",
+  "description": "Frontend-only machine learning analytics dashboard predicting loan approval with Logistic Regression and Decision Tree models, interactive exploratory analysis, and PDF report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
